@@ -5,3 +5,4 @@ NET_INFO=`netstat -rn`
 echo "$NET_INFO"
 echo "Display kernel route table"
 echo "Added new entry to the script"
+echo "First script to be pulled from GitHub"
