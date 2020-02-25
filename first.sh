@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "This is my first script being deployed through Jenkins"
+echo "This is my first script being deployed through Jenkins "
+echo "test git"
 NET_INFO=`netstat -rn`
 echo "test git"
 echo "$NET_INFO"
